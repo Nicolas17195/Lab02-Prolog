@@ -1,0 +1,22 @@
+¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+4 horas: Nicolas
+4 horas: Mateo
+
+¿Cuál es el estado actual del laboratorio? ¿Por qué?
+Finalizado con dificultad ya que tuvimos ciertos inconvenientes a la hora de aplicar el método "DFS".
+
+¿Cuál consideran fue el mayor logro? ¿Por qué? Lograr todos los ejercicios propuestos. Es un logro porque dicho lo anterior logramos entender el método "DFS".
+
+¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo? El mayor problema técnico fue algo sencillo pero que pasamos por desapercibido y fue el tema de las variables. Debido a que confundimos varias veces variables con mayúsculas y  minúsculas.
+
+¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Hicimos bien en desarrollar el trabajo en conjunto y no asignarnos puntos independientemente. Esto nos ayudo a complementar nuestras ideas y teorías acerca del tema, expandiendo nuestro entendimientos sobre el tema. Para futuros proyectos nos comprometemos a dedicarle más tiempo al desarrollo de los laboratorios con el fin de no hacer cosas a último momento, por ende lograr entender mucho mejor.
+ 
+¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+Las referencias fueron de gran utilidad aunque nos guiamos más por un modelo pragmático y empirico basado en ensayo y error.
+La referencia más útil que llegamos a utilizar a lo largo del laboratorio fue la fuente propia de Swish prolog ya que a parte de ser una gran guía nos ayudo a entender los comportamientos entre componentes.
+Referencias:
+* SWISH - SWI-Prolog online: https://swish.swi-prolog.org/p/BB_Prolog_Intro.swinb
+* Learn Prolog Now! https://lpn.swi-prolog.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse8
+* Hackr.io Tutorials: https://hackr.io/tutorials/learn-prolog
+
